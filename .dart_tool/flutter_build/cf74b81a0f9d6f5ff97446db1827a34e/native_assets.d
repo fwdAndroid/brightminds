@@ -1,0 +1,1 @@
+ D:\\current\ projects\\brightminds\\.dart_tool\\flutter_build\\cf74b81a0f9d6f5ff97446db1827a34e\\native_assets.yaml: 

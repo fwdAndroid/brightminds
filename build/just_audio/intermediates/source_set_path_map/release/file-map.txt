@@ -1,0 +1,30 @@
+com.ryanheise.just_audio-core-runtime-2.2.0-0 C:\Users\Fawad\.gradle\caches\transforms-3\1dda91cea8b6ffa6ec06977b18db4d16\transformed\core-runtime-2.2.0\res
+com.ryanheise.just_audio-jetified-annotation-experimental-1.4.0-1 C:\Users\Fawad\.gradle\caches\transforms-3\1ec53da6c2610fe11ade5cfb819eefba\transformed\jetified-annotation-experimental-1.4.0\res
+com.ryanheise.just_audio-core-1.13.1-2 C:\Users\Fawad\.gradle\caches\transforms-3\25303bfa731ad2ab17d3513b6410954f\transformed\core-1.13.1\res
+com.ryanheise.just_audio-lifecycle-runtime-2.7.0-3 C:\Users\Fawad\.gradle\caches\transforms-3\25d7fb859c1c2408c467a9384501f08d\transformed\lifecycle-runtime-2.7.0\res
+com.ryanheise.just_audio-lifecycle-viewmodel-2.7.0-4 C:\Users\Fawad\.gradle\caches\transforms-3\331e6def37b6f31d44e288907978ac31\transformed\lifecycle-viewmodel-2.7.0\res
+com.ryanheise.just_audio-jetified-core-1.0.0-5 C:\Users\Fawad\.gradle\caches\transforms-3\411aa761d6d68814c57f6496aab48ca0\transformed\jetified-core-1.0.0\res
+com.ryanheise.just_audio-jetified-lifecycle-viewmodel-savedstate-2.7.0-6 C:\Users\Fawad\.gradle\caches\transforms-3\454bc818b7e897e5b819765a3621dbd5\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.ryanheise.just_audio-media-1.7.0-7 C:\Users\Fawad\.gradle\caches\transforms-3\5881d39ef824a995f5e95e1f6c718c51\transformed\media-1.7.0\res
+com.ryanheise.just_audio-lifecycle-livedata-2.7.0-8 C:\Users\Fawad\.gradle\caches\transforms-3\5a0964ab42277feb25ad7d19376c0b8d\transformed\lifecycle-livedata-2.7.0\res
+com.ryanheise.just_audio-jetified-activity-1.8.1-9 C:\Users\Fawad\.gradle\caches\transforms-3\62ac00d169f29908206165cd8c63b11e\transformed\jetified-activity-1.8.1\res
+com.ryanheise.just_audio-jetified-window-java-1.2.0-10 C:\Users\Fawad\.gradle\caches\transforms-3\7287e5ea7b95eddddc908bf3cac69c02\transformed\jetified-window-java-1.2.0\res
+com.ryanheise.just_audio-jetified-exoplayer-core-2.18.7-11 C:\Users\Fawad\.gradle\caches\transforms-3\7f084a7ae1f8d846e94618898d9f5391\transformed\jetified-exoplayer-core-2.18.7\res
+com.ryanheise.just_audio-jetified-core-ktx-1.13.1-12 C:\Users\Fawad\.gradle\caches\transforms-3\83b4a160ae86d0c651432042e9652c8e\transformed\jetified-core-ktx-1.13.1\res
+com.ryanheise.just_audio-fragment-1.7.1-13 C:\Users\Fawad\.gradle\caches\transforms-3\8db813eb8aefdbe335df79386252ee91\transformed\fragment-1.7.1\res
+com.ryanheise.just_audio-jetified-profileinstaller-1.3.1-14 C:\Users\Fawad\.gradle\caches\transforms-3\90a73ae9e6e8f559121f9ee864303eeb\transformed\jetified-profileinstaller-1.3.1\res
+com.ryanheise.just_audio-jetified-lifecycle-livedata-core-ktx-2.7.0-15 C:\Users\Fawad\.gradle\caches\transforms-3\90c8883de1eb4e659ad6246d2375e6a9\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.ryanheise.just_audio-jetified-startup-runtime-1.1.1-16 C:\Users\Fawad\.gradle\caches\transforms-3\a209272a9e69cf8cfa53211dd93621e9\transformed\jetified-startup-runtime-1.1.1\res
+com.ryanheise.just_audio-jetified-lifecycle-process-2.7.0-17 C:\Users\Fawad\.gradle\caches\transforms-3\ae61ab4d014edf7aa82827a5683af671\transformed\jetified-lifecycle-process-2.7.0\res
+com.ryanheise.just_audio-jetified-window-1.2.0-18 C:\Users\Fawad\.gradle\caches\transforms-3\aefb9ac74908ffdd3c190cdd84606721\transformed\jetified-window-1.2.0\res
+com.ryanheise.just_audio-jetified-savedstate-1.2.1-19 C:\Users\Fawad\.gradle\caches\transforms-3\b9f1ea6efbb826a36f2ce3f86b5b33a2\transformed\jetified-savedstate-1.2.1\res
+com.ryanheise.just_audio-lifecycle-livedata-core-2.7.0-20 C:\Users\Fawad\.gradle\caches\transforms-3\df49c5ccabcc93c70e3456a49e420f4c\transformed\lifecycle-livedata-core-2.7.0\res
+com.ryanheise.just_audio-jetified-tracing-1.2.0-21 C:\Users\Fawad\.gradle\caches\transforms-3\e87384b63de789d9dc453be8bf8576b8\transformed\jetified-tracing-1.2.0\res
+com.ryanheise.just_audio-main-22 C:\Users\Fawad\AppData\Local\Pub\Cache\hosted\pub.dev\just_audio-0.9.42\android\src\main\res
+com.ryanheise.just_audio-release-23 C:\Users\Fawad\AppData\Local\Pub\Cache\hosted\pub.dev\just_audio-0.9.42\android\src\release\res
+com.ryanheise.just_audio-packaged_res-24 D:\current projects\brightminds\build\audio_session\intermediates\packaged_res\release
+com.ryanheise.just_audio-pngs-25 D:\current projects\brightminds\build\just_audio\generated\res\pngs\release
+com.ryanheise.just_audio-resValues-26 D:\current projects\brightminds\build\just_audio\generated\res\resValues\release
+com.ryanheise.just_audio-mergeReleaseResources-27 D:\current projects\brightminds\build\just_audio\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.ryanheise.just_audio-mergeReleaseResources-28 D:\current projects\brightminds\build\just_audio\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.ryanheise.just_audio-merged_res-29 D:\current projects\brightminds\build\just_audio\intermediates\merged_res\release
